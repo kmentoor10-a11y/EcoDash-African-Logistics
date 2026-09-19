@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #111;
+    color: white;
+}
+
+main {
+    text-align: center;
+    padding: 30px;
+}
+
+canvas {
+    display: block;
+    margin: 20px auto;
+    border: 2px solid white;
+    background: #d9c29c;
+    max-width: 100%;
+    height: auto;
+}
